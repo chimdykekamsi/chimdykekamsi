@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Chimdyke Kamsi
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchimdykekamsi%2Fchimdykekamsi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/ChimdykeKamsi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimdike-anagboso-21b6b3255/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/chimdykekamsi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/ckamsi04)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ckamsi04/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/ckamsi04/)
+[![TikTok](https://img.shields.io/badge/-TikTok-purple?logo=instagram&logoColor=white)](https://www.tiktok.com/@ckamsi04/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white)](mailto:ckamsi04@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/chimdykekamsi?label=Follow&style=social)](https://github.com/chimdykekamsi)
 
@@ -11,13 +12,10 @@
 
 ## 🧠 About Me
 
-I'm a **backend engineer** with deep experience in **Node.js/Express** and **Laravel**, and I enjoy turning complex business needs into scalable software solutions. I'm the founder of **Bivora**, a software agency helping businesses leverage technology through custom solutions and SaaS products.
+I'm a **backend engineer** who loves turning **chaotic or manual business logic** into **scalable and automated systems**. I specialize in **Node.js/Express/NestJs**, **Laravel**, If I have no choice :).
 
-### 🌟 What I Do
-- Build **REST APIs**, **SaaS platforms**, and **business apps**
-- Lead software projects like [**Dabadesk**](https://github.com/chimdykekamsi/dabadesk), an all-in-one freelance management tool with escrow & verified portfolios
-- Help brands transition from WhatsApp/DM sales to proper **order management systems**
-- Mentor and build with a young, passionate team growing into tech professionals under the Bivora umbrella
+
+Outside of work, I’m building a personal brand around two things I love deeply: **backend engineering** and **goalkeeping**. Yep, I’m also the guy between the sticks. ⚽
 
 ---
 
@@ -37,21 +35,22 @@ I'm a **backend engineer** with deep experience in **Node.js/Express** and **Lar
 ---
 
 ## 📌 Highlight Projects
-- 🎯 **[Dabadesk](https://github.com/chimdykekamsi/dabadesk)** — Freelance management tool with escrow and client-verified portfolios
-- 🏢 **Bivora** — Software agency building custom web & mobile solutions for local businesses
-- 🎥 **Street Got Talent Web App** — End-to-end system for a talent show platform including contestant registration, management, and voting
+
+- 🚀 **Dabadesk** – Freelance management SaaS platform with escrow, client-verified portfolios, and PAYG model built for African freelancers.
+- 🎥 **Street Got Talent Web App** – Contestant management and voting platform for a talent show. Think backend meets entertainment.
+- **SwiftCahrge** - A bill payment application
 
 ---
 
 ## 🛠️ Skills
-- RESTful API Design
-- Database Modeling & Optimization
-- Authentication & Authorization
-- Continuous Integration
-- API Testing (Postman, ThunderClient)
-- Team Collaboration & Code Reviews
-- Business Analysis & Requirement Gathering
 
+- RESTful API Design & Development
+- Database Architecture (Relational & NoSQL)
+- Third-Party API Integrations
+- Authentication & Authorization (OAuth, JWT)
+- Business Analysis & Requirement Gathering
+- Git, Postman, Docker, CI/CD
+- Audit Logging & Activity Tracking
 ---
 
 ## 📈 GitHub Stats
@@ -64,11 +63,11 @@ I'm a **backend engineer** with deep experience in **Node.js/Express** and **Lar
 ---
 
 ## 💬 Let's Connect
+
 I’m open to:
-- Project collaborations
-- Backend challenges and code reviews
-- Tech communities and dev meetups
-- Opportunities to teach or mentor
+- Collaborations on backend-heavy projects
+- Contract work through Bivora
+- Mentoring, teaching, or speaking engagements
+- Joining tech communities & meetups
 
 📬 **Reach me:** [ckamsi04@gmail.com](mailto:ckamsi04@gmail.com)
-
